@@ -49,7 +49,7 @@ module.exports = {
     // },
     development: {
       host: "127.0.0.1",
-      port: 7545,
+      port: 7574,
       network_id: "*"
     }
     // Another network with more advanced options...
