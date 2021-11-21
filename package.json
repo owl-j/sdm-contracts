@@ -1,0 +1,19 @@
+{
+  "name": "sdm-contract",
+  "version": "1.0.0",
+  "description": "spatial decision market",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "author": "Oliver.Johnson1@anu.edu.au",
+  "license": "Check w/ Author",
+  "devDependencies": {},
+  "dependencies": {
+    "ganache-cli": "^6.12.2"
+  }
+}
